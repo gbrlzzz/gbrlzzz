@@ -13,7 +13,7 @@ Estou focado em transformar ideias em soluções práticas, com grande interesse
 
 Para cumprir a etapa de apresentação do portfólio, gravei um vídeo rápido explicando o projeto.
 
-➡️ **[Clique aqui para assistir à apresentação no YouTube]**https://youtu.be/7A1_UjujZk0
+➡️ **[Clique aqui para assistir à apresentação no YouTube]**(https://youtu.be/7A1_UjujZk0)
 
 ---
 
@@ -21,7 +21,7 @@ Para cumprir a etapa de apresentação do portfólio, gravei um vídeo rápido e
 
 Para uma apresentação visual detalhada das minhas habilidades, acesse o link abaixo:
 
-➡️ **[Clique aqui para ver a Apresentação de Habilidades]**https://docs.google.com/presentation/d/15D-9BKHvpTi2p8Q4Iz5jp4gPEsIBD3M0k-qh2N7gsz4/edit?usp=sharing
+➡️ **[Clique aqui para ver a Apresentação de Habilidades]**(https://docs.google.com/presentation/d/15D-9BKHvpTi2p8Q4Iz5jp4gPEsIBD3M0k-qh2N7gsz4/edit?usp=sharing)
 
 ---
 
