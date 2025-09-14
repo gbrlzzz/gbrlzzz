@@ -46,6 +46,11 @@ Para uma apresentação visual detalhada das minhas habilidades, acesse o link a
 
 * **Estagiário de Desenvolvimento de Software** | Trixti Tecnologia Inteligente
     * *Abril/2025 - Presente*
+ 
+### Idiomas
+
+* **Português:** Nativo
+* **Inglês:** Fluente
 
 ---
 
