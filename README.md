@@ -38,9 +38,17 @@ Para uma apresentação visual detalhada das minhas habilidades, acesse o link a
 ## 🎓 Currículo
 
 ### Formação Acadêmica
+
 * **Engenharia de Software** | Centro Universitário de Brasília (CEUB)
     * *Previsão de Conclusão: Dezembro/2028*
 
 ### Experiência Profissional
+
 * **Estagiário de Desenvolvimento de Software** | Trixti Tecnologia Inteligente
     * *Abril/2025 - Presente*
+
+---
+
+## 🌟 Recomendações e Testemunhos
+
+_(Esta seção está em construção. Recomendações de professores e supervisores serão adicionadas em breve, após contato formal.)_
